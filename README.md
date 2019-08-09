@@ -1,2 +1,2 @@
-# template__activity
-Created with CodeSandbox
+# project-example
+Example game project page
